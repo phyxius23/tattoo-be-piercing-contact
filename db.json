@@ -1,216 +1,296 @@
 {
-  "piercingPage": {
-    "coverSection": {
-      "title": "Piercing",
-      "subtitle": null,
-      "link": null,
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
-        "alt": "",
-        "height": "",
-        "width": "",
-        "title": ""
-      }
-    },
-    "biographySection": {
-      "title": null,
-      "image": null,
-      "mediaText": [
-        {
-          "id": 1,
-          "addClass": "",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/piercing/p1lzexs4caywwpe1rghz.webp",
-            "alt": "Vari piercing all'orecchio ",
-            "height": "331",
-            "width": "555",
-            "title": null
-          },
-          "paragraphs": [
-            {
-              "id": 1,
-              "text": "Sebastiano Sebap Pesce è un piercer con esperienza decennale, inizia il suo percorso come “sguattero di bottega” in uno studio che ha aiutato a fondare a Mestre nel 2003."
-            },
-            {
-              "id": 2,
-              "text": "Nel 2005 fa un’esperienza di un anno in Norvegia, dove conosce il suo maestro da cui impara i fondamentali del piercing e della gioielleria."
-            },
-            {
-              "id": 3,
-              "text": "Rientrato in Italia inizia a fare esperienza tra vari studi in provincia di Venezia."
-            },
-            {
-              "id": 4,
-              "text": "Da sempre innamorato di Venezia, nel 2020 decide di unirsi alla crew di Tommy all’InKae Tattoo, forando e proponendo gioielleria."
-            }
-          ]
-        }
-      ]
-    },
-    "crewSection": {
-      "title": "La nostra crew",
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
-        "alt": "",
-        "height": "891",
-        "width": "1440",
-        "title": ""
-      },
-      "artists": [
-        {
-          "id": "1",
-          "title": "Tommy Grossi",
-          "description": "Traditional tattoo",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        },
-        {
-          "id": "2",
-          "title": "Aura Negativa",
-          "description": "Blackwork",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        },
-        {
-          "id": "3",
-          "title": "Tobias Paties",
-          "description": "Traditional tattoo",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        }
-      ]
-    },
-    "worksSection": {
-      "title": "I miei lavori",
-      "images": [
-        {
-          "id": 1,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/piercing/ptlfqa5ahyjqm7hkcqjb.webp",
-          "height": "450",
-          "width": "370",
-          "alt": "Piercing by Tobias Paties",
-          "title": "Testo che descrive il piercing 1"
-        },
-        {
-          "id": 2,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761151/inkaeTattooVenice/piercing/d0uvg4fhwdww46ppfc68.webp",
-          "height": "450",
-          "width": "370",
-          "alt": "Piercing by Tobias Paties",
-          "title": "Testo che descrive il piercing 2"
-        },
-        {
-          "id": 3,
-          "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/piercing/elkn5cq64pz3jtfewrqz.webp",
-          "height": "450",
-          "width": "370",
-          "alt": "Piercing by Tobias Paties",
-          "title": "Testo che descrive il piercing 3"
-        }
-      ]
-    },
-    "contactSection": {
-      "title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
-      "image": null,
-      "description": "",
-      "link": {
-        "href": "/contatti",
-        "alt": "Contattaci per saperne di più",
-        "text": "Contattaci per saperne di più"
-      }
-    }
-  },
-  "contactPage": {
-    "coverSection": {
-      "title": "Contatti",
-      "subtitle": null,
-      "link": null,
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/z6p8jeemhzd3pppqe78m.webp",
-        "alt": "",
-        "height": "1060",
-        "width": "1440",
-        "title": ""
-      }
-    },
-    "crewSection": {
-      "title": "La nostra crew",
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
-        "alt": "",
-        "height": "891",
-        "width": "1440",
-        "title": ""
-      },
-      "artists": [
-        {
-          "id": "1",
-          "title": "Tommy Grossi",
-          "description": "Traditional tattoo",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        },
-        {
-          "id": "2",
-          "title": "Aura Negativa",
-          "description": "Blackwork",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        },
-        {
-          "id": "3",
-          "title": "Tobias Paties",
-          "description": "Traditional tattoo",
-          "image": {
-            "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
-            "alt": "",
-            "height": "270",
-            "width": "425",
-            "title": ""
-          }
-        }
-      ]
-    },
-    "piercingSection": {
-      "title": "Piercing",
-      "image": {
-        "url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
-        "alt": "",
-        "height": "500",
-        "width": "1440",
-        "title": ""
-      },
-      "description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
-      "link": {
-        "href": "/piercing",
-        "alt": "Scopri i nostri servizi",
-        "text": "Scopri i nostri servizi"
-      }
-    }
-  }
+	"piercingPage": {
+		"coverSection": {
+			"title": "Piercing",
+			"subtitle": null,
+			"link": null,
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
+				"alt": "",
+				"height": "",
+				"width": "",
+				"title": ""
+			}
+		},
+		"biographySection": {
+			"title": null,
+			"image": null,
+			"mediaText": [
+				{
+					"id": 1,
+					"addClass": "",
+					"image": {
+						"url": "da cambiare",
+						"alt": "Vari piercing all'orecchio ",
+						"height": "331",
+						"width": "555",
+						"title": null
+					},
+					"paragraphs": [
+						{
+							"id": 1,
+							"text": "Sebastiano Sebap Pesce è un piercer con esperienza decennale, inizia il suo percorso come “sguattero di bottega” in uno studio che ha aiutato a fondare a Mestre nel 2003."
+						},
+						{
+							"id": 2,
+							"text": "Nel 2005 fa un’esperienza di un anno in Norvegia, dove conosce il suo maestro da cui impara i fondamentali del piercing e della gioielleria."
+						},
+						{
+							"id": 3,
+							"text": "Rientrato in Italia inizia a fare esperienza tra vari studi in provincia di Venezia."
+						},
+						{
+							"id": 4,
+							"text": "Da sempre innamorato di Venezia, nel 2020 decide di unirsi alla crew di Tommy all’InKae Tattoo, forando e proponendo gioielleria."
+						}
+					]
+				}
+			]
+		},
+		"crewSection": {
+			"title": "La nostra crew da sistemare",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
+				"alt": "",
+				"height": "891",
+				"width": "1440",
+				"title": ""
+			},
+			"artists": [
+				{
+					"id": "1",
+					"title": "Tommy Grossi",
+					"description": "Traditional tattoo",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				},
+				{
+					"id": "2",
+					"title": "Aura Negativa",
+					"description": "Blackwork",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				},
+				{
+					"id": "3",
+					"title": "Tobias Paties",
+					"description": "Traditional tattoo",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				}
+			]
+		},
+		"worksSection": {
+			"title": "I miei lavori",
+			"images": [
+				{
+					"id": 1,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137450/inkaeTattooVenice/piercing/ifqn8zp3fto7saahttjy.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 2,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137449/inkaeTattooVenice/piercing/by8zr5htarjgy8mytufo.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 3,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137449/inkaeTattooVenice/piercing/l8pvepqv6fmpbnnfukvx.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 4,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137449/inkaeTattooVenice/piercing/bmvvk5ryjrrm8texjedj.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 5,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137449/inkaeTattooVenice/piercing/pczz9xeowzrup2ritpm0.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 6,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137449/inkaeTattooVenice/piercing/k0lpjllgflopoeygmtn5.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 7,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137449/inkaeTattooVenice/piercing/fha8ecxtmxkpnokkmz4r.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 8,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137448/inkaeTattooVenice/piercing/cnfe0woyur4z97xq4qjn.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 9,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137448/inkaeTattooVenice/piercing/zzzghedcplk4g6psfn67.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 10,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137448/inkaeTattooVenice/piercing/ckn9bdhhfhu8fprrmx9d.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 11,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137448/inkaeTattooVenice/piercing/ga1d5kci20toehxioaz1.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 12,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137448/inkaeTattooVenice/piercing/fjmyxu6pljiss4kce9wu.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				},
+				{
+					"id": 13,
+					"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1709137448/inkaeTattooVenice/piercing/nj144zerhqq1gmmr0pdd.webp",
+					"height": "700",
+					"width": "525",
+					"alt": "Piercing by Sebap Pesce",
+					"title": null
+				}
+			]
+		},
+		"contactSection": {
+			"title": "Contattaci per discutere di come possiamo trasformare in realtà quell'idea che ti frulla per la testa",
+			"image": null,
+			"description": "",
+			"link": {
+				"href": "/contatti",
+				"alt": "Contattaci per saperne di più",
+				"text": "Contattaci per saperne di più"
+			}
+		}
+	},
+	"contactPage": {
+		"coverSection": {
+			"title": "Contatti",
+			"subtitle": null,
+			"link": null,
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/z6p8jeemhzd3pppqe78m.webp",
+				"alt": "",
+				"height": "1060",
+				"width": "1440",
+				"title": ""
+			}
+		},
+		"crewSection": {
+			"title": "La nostra crew",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
+				"alt": "",
+				"height": "891",
+				"width": "1440",
+				"title": ""
+			},
+			"artists": [
+				{
+					"id": "1",
+					"title": "Tommy Grossi",
+					"description": "Traditional tattoo",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				},
+				{
+					"id": "2",
+					"title": "Aura Negativa",
+					"description": "Blackwork",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				},
+				{
+					"id": "3",
+					"title": "Tobias Paties",
+					"description": "Traditional tattoo",
+					"image": {
+						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761154/inkaeTattooVenice/home/hersh4jbbgutfwkbzkhy.webp",
+						"alt": "",
+						"height": "270",
+						"width": "425",
+						"title": ""
+					}
+				}
+			]
+		},
+		"piercingSection": {
+			"title": "Piercing",
+			"image": {
+				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761152/inkaeTattooVenice/home/xtsdugpduzh1ln4mmpho.webp",
+				"alt": "",
+				"height": "500",
+				"width": "1440",
+				"title": ""
+			},
+			"description": "Ogni martedì su appuntamento presso il nostro studio sarai seguito da personale altamente qualificato",
+			"link": {
+				"href": "/piercing",
+				"alt": "Scopri i nostri servizi",
+				"text": "Scopri i nostri servizi"
+			}
+		}
+	}
 }
