@@ -48,7 +48,7 @@
 			]
 		},
 		"crewSection": {
-			"title": "La nostra crew",
+			"title": "I nostri Artisti",
 			"image": {
 				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
 				"alt": "",
@@ -71,18 +71,6 @@
 				},
 				{
 					"id": "2",
-					"title": "Aura Negativa",
-					"description": "Blackwork",
-					"image": {
-						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
-						"alt": "",
-						"height": "270",
-						"width": "425",
-						"title": ""
-					}
-				},
-				{
-					"id": "3",
 					"title": "Tobia Baser",
 					"description": "Tradizionale Americano, Giapponese e Fine Line",
 					"image": {
@@ -229,7 +217,7 @@
 			}
 		},
 		"crewSection": {
-			"title": "La nostra crew",
+			"title": "I nostri Artisti",
 			"image": {
 				"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/qmj8y24527xs9epwefrf.webp",
 				"alt": "",
@@ -252,18 +240,6 @@
 				},
 				{
 					"id": "2",
-					"title": "Aura Negativa",
-					"description": "Blackwork",
-					"image": {
-						"url": "https://res.cloudinary.com/dqnclur2i/image/upload/v1698761150/inkaeTattooVenice/home/w6rl8enepdi4bclhdl2w.webp",
-						"alt": "",
-						"height": "270",
-						"width": "425",
-						"title": ""
-					}
-				},
-				{
-					"id": "3",
 					"title": "Tobia Baser",
 					"description": "Tradizionale Americano, Giapponese e Fine Line",
 					"image": {
